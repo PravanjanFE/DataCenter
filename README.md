@@ -40,8 +40,8 @@ Built within **Unreal Engine** (using GIS plugin support), it creates a **spatia
 4. **Interactive Features** → Developed Location Bookmarks for intuitive navigation.  
 5. **UI & Development** → Built an interactive UI system with user-friendly controls.  
 6. **Monitoring Panels** → Integrated dashboards for environment, power, and asset tracking.  
-7. **Testing & Debugging** → Validated data accuracy, interactivity, and performance.  
-8. **Deployment** → Packaged as a Windows build with **VR readiness**.  
+7. **Testing & Debugging** → Iterative testing to validate data accuracy and interaction fidelity (this is to be executed as per real time project deployment)  
+8. **Deployment** → Packaged as a **Windows build/Pixel Streaming**, optimized for performance  
 
 ---
 
@@ -57,7 +57,7 @@ Built within **Unreal Engine** (using GIS plugin support), it creates a **spatia
 ## 🖥️ UI & Development
 - Custom **UI system** with intuitive navigation  
 - Dynamic panels for monitoring and decision-making  
-- Optimized interaction for **desktop and VR use**  
+- Optimized interaction for **desktop use**  
 
 ---
 
@@ -68,27 +68,30 @@ Built within **Unreal Engine** (using GIS plugin support), it creates a **spatia
 
 ---
 
-## 🧪 Testing & Deployment
-- **Testing**: Continuous debugging and validation for  
-  - Data alignment  
-  - User interactivity  
-  - System performance  
-- **Deployment**: Packaged as a **Windows executable** with **full VR support**  
-
----
-
 ## 🎯 Technology Stack
-- **Backend**: GIS Pro (GIS data processing)  
+- **Backend**: GIS data from open sources resources  
 - **Frontend**: Unreal Engine (Blueprints, GIS plugin), Blender, Figma  
 
 ---
 
 ## ✅ Outcome
-The final **Data Center Digital Twin** is a **GIS-powered, VR-ready platform** that fuses:  
+The final **Data Center Digital Twin** is a **GIS-powered** that fuses:  
 - Real-world geography  
 - Interactive navigation  
 - Live operational analytics  
 
 ➡️ Result: A **powerful visualization & decision-support tool** designed to **optimize complex data center management and operational efficiency**.  
+
+---
+
+## 🔐 Data Privacy & Security
+Our **data handling approach** prioritizes **client data sovereignty** through:  
+- **On-premises deployment**  
+- **Comprehensive security controls**  
+- **Transparent operational practices**  
+
+All solutions operate **within client infrastructure**, ensuring:  
+- Complete **data ownership and control**  
+- Maintenance of **enterprise-grade security standards** throughout the **project lifecycle**
 
 ---
